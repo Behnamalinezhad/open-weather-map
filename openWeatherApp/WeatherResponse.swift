@@ -75,9 +75,6 @@ struct Temp: Codable {
 }
 
 struct FeelsLike: Codable {
-//    let day: Double?
-//    let night: Double?
-//    let eve: Double?
-//    let morn: Double?
+
 }
 
